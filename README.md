@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Moses Mhango, an aspiring Data Analyst with a passion for turning raw data into meaningful insights.
 
-- 🌱 Currently enhancing my skills in data analysis and visualization.
+- 🌱 I’m currently learning SQL.
 - 💼 Actively seeking entry-level opportunities in data analysis.
 - 🔭 I'm currently working on projects to enhance my data analytics skills.
 - 💡 I am excited about the opportunity to contribute to data-driven decision-making processes and help organizations uncover valuable insights from their data.
