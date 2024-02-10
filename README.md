@@ -7,7 +7,7 @@ Hi there! 👋 I'm Moses Mhango, an aspiring Data Analyst with a passion for tur
 - 🔭 I'm currently working on projects to enhance my data analytics skills.
 - 💡 I am excited about the opportunity to contribute to data-driven decision-making processes and help organizations uncover valuable insights from their data.
 
-## Tools I used for data analysis.
+## I'm proficient in
 - Microsoft Excel.
 - Microsoft Power BI
 - STATA
