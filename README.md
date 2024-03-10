@@ -12,7 +12,6 @@ Hi there! 👋 I'm Moses Mhango, an aspiring Data Analyst with a passion for tur
 - Microsoft Power BI
 - STATA
 - SPSS
-- SQL
 
 <!--
 **Moses21/Moses21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
