@@ -10,7 +10,7 @@ Hi there! 👋 I'm Moses Mhango, an aspiring Data Analyst with a passion for tur
 ## I'm proficient in
 - Microsoft Excel.
 - Microsoft Power BI
-- STATA, DHIS2 and SPSS
+- SurveyCTO,Kobotoolbox and DHIS2
 - SQL
 
 <!--
